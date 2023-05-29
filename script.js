@@ -1,4 +1,4 @@
-// Recipe App JavaScript code
+// RecipeBox JavaScript code
 document.addEventListener("DOMContentLoaded", () => {
     const recipeForm = document.getElementById("recipe-form");
     const recipeList = document.getElementById("recipe-list");
