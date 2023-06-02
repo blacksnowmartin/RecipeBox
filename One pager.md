@@ -1,4 +1,4 @@
-Title: RecipeBox: A Web-based System for Creating, Sharing, and Discovering Personal Recipes
+Title: RecipeBox: A Web-based System for Creating, Recording, and Discovering Personal Recipes
 
 Introduction:
 
@@ -21,6 +21,9 @@ Methodology:
 The development of RecipeBox will involve the use of modern web technologies, such as HTML5, CSS, and JavaScript. The system will be designed with scalability and security in mind, and will be hosted simply on a web browser.
 
 The system will be designed with a modular architecture, allowing for easy customization and integration of new features. The development process will involve several stages, including requirements gathering, design, implementation, testing, and deployment. User feedback will be incorporated throughout the development process to ensure that the system meets the needs of its target audience.
+
+
+Agile Methodology: Our project of creating a recipe recording system will utilize Agile methodology, enabling us to deliver value in short, iterative cycles. We will break down tasks, prioritize based on user needs, and work in sprints. Regular collaboration and feedback loops with stakeholders ensure alignment. Agile promotes flexibility, adaptability, and continuous improvement. By leveraging Agile practices, we will deliver a user-friendly and feature-rich system that meets the specific requirements of our target audience.
 
 Expected Results:
 
